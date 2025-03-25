@@ -17,6 +17,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
 
+#df = pd.read_csv(r'C:\Users\Yousuf Traders\Desktop\task 3\news.csv')
 df = pd.read_csv('news.csv')
 
 #remove unnecessary column
